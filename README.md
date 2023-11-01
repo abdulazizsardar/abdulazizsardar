@@ -5,20 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulazizsardar" alt="abdulazizsardar" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [abdulazizz.xyz](abdulazizz.xyz)
-
-- 📝 I regularly write articles on [abdulaziz.xyz](abdulaziz.xyz)
-
-- 💬 Ask me about **php,WordPress,React,Plugin,javaScript,Themeforest**
-
-- 📫 How to reach me **abdulaziz58@gmail.com**
-
-- 📄 Know about my experiences [http://abdulazizz.xyz/wp-content/uploads/2023/10/Resume-of-Abdul-Aziz-Sardar.pdf](http://abdulazizz.xyz/wp-content/uploads/2023/10/Resume-of-Abdul-Aziz-Sardar.pdf)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/yourdevapon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yourdevapon" height="30" width="40" /></a>
