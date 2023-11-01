@@ -1,29 +1,35 @@
-![I am Junior Software Enginner](https://scontent.fdac135-1.fna.fbcdn.net/v/t1.6435-9/46513834_1302594969880312_2452598996586201088_n.jpg?stp=dst-jpg_s960x960&_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEvmFyuWYnP73D0pqceOdA-xg2cFZWLA4nGDZwVlYsDiQKU7MrVsRrpF_FhcvF1YGqjKUxIygC_hyx0n9ll-2r5&_nc_ohc=aXq2yErKDNUAX_N5wKY&_nc_ht=scontent.fdac135-1.fna&oh=00_AfDf7eAS813K0QY9ju67G_3xnHR47oLFHKsdhq55UGWqFg&oe=64783DA5)
+<h1 align="center">Hi 👋, I'm abdul aziz</h1>
+<h3 align="center">A Software Engineer</h3>
 
-### Hi there 👋, my name is Amirul Apon
-#### I am Junior Software Enginner
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulazizsardar&label=Profile%20views&color=0e75b6&style=flat" alt="abdulazizsardar" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulazizsardar" alt="abdulazizsardar" /></a> </p>
 
-"As a software engineer, I have a passion for creating software that solves real-world problems and improves people's lives. I have expertise in multiple programming languages, including JavaScript, PHP, and Python, and I am experienced in developing web applications using modern front-end frameworks such as React. I am committed to delivering software that is scalable, maintainable, and user-friendly."
+- 👨‍💻 All of my projects are available at [abdulazizz.xyz](abdulazizz.xyz)
 
-Skills:  REACT / JS / HTML / CSS / PHP / WORDPRESS
+- 📝 I regularly write articles on [abdulaziz.xyz](abdulaziz.xyz)
 
-- 🔭 I’m currently working on Kaicom IT Solutions 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about WEB Development 
+- 💬 Ask me about **php,WordPress,React,Plugin,javaScript,Themeforest**
 
+- 📫 How to reach me **abdulaziz58@gmail.com**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AmirulApon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/amirulapon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/amirulhassan_apon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/amirulapon)  
+- 📄 Know about my experiences [http://abdulazizz.xyz/wp-content/uploads/2023/10/Resume-of-Abdul-Aziz-Sardar.pdf](http://abdulazizz.xyz/wp-content/uploads/2023/10/Resume-of-Abdul-Aziz-Sardar.pdf)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AmirulApon)](https://github.com/ryo-ma/github-profile-trophy)
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirulApon)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/yourdevapon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yourdevapon" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://twitter.com/aponshordar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://twitter.com/aponshordar" height="30" width="40" /></a>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirulApon&show_icons=true)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-  ## Leetcode Stats
-[![Leetcode Stats](https://leetcard.jacoblin.cool/APON11?ext=heatmap&animation=true)](https://leetcode.com/APON11/)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulazizsardar&show_icons=true&locale=en&layout=compact" alt="abdulazizsardar" /></p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=AmirulApon)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulazizsardar&show_icons=true&locale=en" alt="abdulazizsardar" /></p>
 
-![Profile views](https://gpvc.arturio.dev/AmirulApon)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulazizsardar&" alt="abdulazizsardar" /></p>
