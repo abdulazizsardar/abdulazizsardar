@@ -4,7 +4,7 @@
 <li>🌱 Always try to improve myself</li>
 <li>💬 Ask me about <a href="mailto:abdulazizsardar58@gmail.com">mail me</a></li>
 <li>💬 <a href="https://www.linkedin.com/in/abdul-aziz-dev/" rel="nofollow">Find me in Linkedin</a></li>
-<li>📫 How to reach me: skype<a target="_blank" href="skype:apon.shordar1?chat">Skype</a>></li>
+<li>📫 How to reach me: skype <a target="_blank" href="skype:apon.shordar1?chat"> Skype</a> </li>
     
 </ul>
 <h3 dir="auto"><a id="user-content-languages" class="anchor" aria-hidden="true" tabindex="-1" href="#languages">
