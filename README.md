@@ -11,7 +11,7 @@
 </h3>
 <p dir="auto">
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/683753a3962c1501b3c17b4d1c661ef7a0e366f458b8f1dcd1ef085e5f7c8ff3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d7068702d3030303f266c6f676f3d706870">
-        <img src="https://camo.githubusercontent.com/683753a3962c1501b3c17b4d1c661ef7a0e366f458b8f1dcd1ef085e5f7c8ff3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d7068702d3030303f266c6f676f3d706870" alt="PHP" data-canonical-src="https://img.shields.io/badge/-php-000?&amp;logo=php" style="max-width: 100%;">
+        <img src="https://www.flaticon.com/free-icon/web_15474204" alt="PHP" data-canonical-src="https://www.flaticon.com/free-icon/web_15474204" style="max-width: 100%;">
     </a>
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f4ab3dd2a089aa8fff44390ee2f3743d4062fda15d5c1afa9214caa61141e08d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303f266c6f676f3d4a617661536372697074">
         <img src="https://camo.githubusercontent.com/f4ab3dd2a089aa8fff44390ee2f3743d4062fda15d5c1afa9214caa61141e08d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303f266c6f676f3d4a617661536372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-000?&amp;logo=JavaScript" style="max-width: 100%;">
